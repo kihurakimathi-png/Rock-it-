@@ -1,0 +1,6 @@
+{
+  "name": "Amateur Rocketry Simulator",
+  "description": "An interactive rocket launch simulator and flight log designed for amateur rocketeers, featuring detailed specs configuration, thrust curves, landing predictions, and 3D trajectory visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
